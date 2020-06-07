@@ -1,0 +1,17 @@
+{
+  "name": "plugin-filesize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "rollup": "^2.53.0",
+    "rollup-plugin-filesize": "^9.1.1"
+  }
+}

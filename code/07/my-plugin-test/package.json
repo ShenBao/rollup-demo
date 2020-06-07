@@ -1,0 +1,20 @@
+{
+  "name": "my-plugin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -w -c ./config/rollup.config.dev.js",
+    "build": "rollup -c ./config/rollup.config.prod.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/pluginutils": "^4.1.0",
+    "magic-string": "^0.25.7",
+    "rollup": "^2.53.1",
+    "rollup-plugin-serve": "^1.1.0",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}

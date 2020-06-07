@@ -1,0 +1,1 @@
+{"version":3,"file":"hello.js","sources":["../../src/lib/hello.js"],"sourcesContent":["export default {\r\n  init () {\r\n    console.log ('this lib/hello module');\r\n  },\r\n};\r\n"],"names":["init","console","log"],"mappings":";;AAAA,cAAe;EACbA,EAAAA,IADa,kBACL;EACNC,IAAAA,OAAO,CAACC,GAAR,CAAa,uBAAb;EACD;EAHY,CAAf;;;;;;;;"}
