@@ -20,6 +20,15 @@
 
 用 webpack 从 0 到 1 打包一个按需加载的 vue 组件库：https://juejin.cn/post/6932736907830886413#heading-4
 
+解读 rollup Plugin
+https://juejin.cn/post/6979244918103343111
+
+Rollup打包工具的使用（超详细，超基础，附代码截图超简单）
+https://juejin.cn/post/6844904058394771470
+
+使用rollup.js封装各项目共用的工具包 gdpg-utils，并发布到npm私库
+https://juejin.cn/post/6993720790046736420
+
 ## 文章
 
 - https://www.jianshu.com/p/6a7413481bd2
